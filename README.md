@@ -1,4 +1,3 @@
 # concurrency-test
-## v.01
-### test 
-Examples about concurrency
+### v.0.2
+  - added examples wait-notify and wait-notifyAll
